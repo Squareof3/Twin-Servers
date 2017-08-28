@@ -1,0 +1,19 @@
+{
+  "name": "twin-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server7000.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squareof3/Twin-Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squareof3/Twin-Servers/issues"
+  },
+  "homepage": "https://github.com/Squareof3/Twin-Servers#readme"
+}
